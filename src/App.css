@@ -1,0 +1,12 @@
+.container{
+  width: 100vw;
+  height:100vh;
+  margin: 0 auto;
+}
+.form{
+  
+  width:400px;
+}
+.heading{
+  text-align: center;
+}
